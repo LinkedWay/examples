@@ -37,7 +37,7 @@ external dependencies, which made me spend more time to learn those dependencies
 
 This project:
 
-I borrowed code base from vlucas[https://github.com/vlucas/universal-react-helloworld], and stripped down the servers side code for isomorphic
+I borrowed code base from [vlucas](https://github.com/vlucas/universal-react-helloworld), and stripped down the servers side code for isomorphic
 
 
 
