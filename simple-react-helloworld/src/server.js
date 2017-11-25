@@ -1,10 +1,4 @@
-import React from 'react';
-import express from 'express';
-
 let app = express();
-
-// Set the view engine to ejs
-app.set('view engine', 'ejs');
 
 // Serve static files from the 'public' folder
 app.use(express.static('public'));
